@@ -9,6 +9,9 @@ test.py
 # C extensions
 *.so
 
+#VS Code
+settings.json
+
 # other file extensions
 *.csv
 *.pdf
