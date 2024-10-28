@@ -10,8 +10,5 @@
 #Ignore PowerPoint files
 *.pptx
 
-# Ignore old folder
-old/
-
 # Ignore VS code settings file 
 settings.json
