@@ -1,21 +1,17 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# test file
-test.py
-
-# C extensions
-*.so
-
-#VS Code
-settings.json
-
-# other file extensions
-*.csv
+# Ignore pdf files
 *.pdf
-*.pptx
-*.svg
-*.png
+
+# Ignore data files
+*.csv
+
+# Ignore model files
 *.h5
+
+#Ignore PowerPoint files
+*.pptx
+
+# Ignore old folder
+old/
+
+# Ignore VS code settings file 
+settings.json
